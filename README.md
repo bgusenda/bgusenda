@@ -10,7 +10,7 @@
 ` Begginner fullstack developer & web designer `
 
 - 🏳️‍⚧️ Pronouns: She/Her  
-- 📧 Contact: bgusen@outlook.com  
+- 📧 Contact: bgusen@proton.me  
 - 🎓 Systems Development student @ Etec de Peruíbe  
 - 🌎 Advanced English - B2
 - 🔭 Passionate about web development and open source projects
