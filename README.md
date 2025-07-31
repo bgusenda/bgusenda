@@ -55,11 +55,11 @@
 > _Updated in Real-Time_
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luz-Coelho&theme=radical" width="70%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgusenda&theme=radical" width="70%">
   
   <div style="display: flex; gap: 1rem; margin-top: 1rem;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luz-Coelho&show_icons=true&theme=radical&custom_title=Github%20Stats" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luz-Coelho&layout=donut&theme=radical&custom_title=My%20Code%20Stack" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=bgusenda&show_icons=true&theme=radical&custom_title=Github%20Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=radical&custom_title=My%20Code%20Stack" height="165">
   </div>
 </div>
 
