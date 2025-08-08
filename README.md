@@ -4,7 +4,7 @@
 
 <img src="./images/gitbanner.png" align="center" alt="profile's readme banner">
 
-![Productivity](https://img.shields.io/badge/This%20Week-12%20commits-blue) 
+![Productivity](https://img.shields.io/badge/This%20Week-some%20commits-blue) 
 ![Focus](https://img.shields.io/badge/Main%20Language-TypeScript-3178C6)
 
 ` Begginner fullstack developer & web designer `
@@ -25,11 +25,11 @@
 
 ### 🌐 Frontend
 
-[![Skills](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,materialui,vite,tauri)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,materialui,vite)](https://github.com/syvixor/skills-icons)
 
 ### ⚙️ Backend & Databases
 
-[![Skills](https://skills.syvixor.com/api/icons?i=nodejs,php,mysql,csharp,cpp,rust)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=nodejs,php,xampp,mysql,csharp,cpp,expressjs)](https://github.com/syvixor/skills-icons)
 
 ### 📱 Mobile Development
 
