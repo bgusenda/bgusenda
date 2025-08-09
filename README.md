@@ -51,7 +51,7 @@
 | Learning | [![Learning](https://skills.syvixor.com/api/icons?i=androidstudio,flutter,capacitor,figma&radius=25)](https://github.com/syvixor/skills-icons) |
   
   </td> 
-  <td align="left" width="70%">
+  <td align="left" width="700px">
       <picture>
         <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=react&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
         <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=buefy&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
