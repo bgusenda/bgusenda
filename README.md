@@ -36,11 +36,6 @@
 
 ## 🛠️ Tech Stack
 
-
-<table>
-  <tr>
-    <td>  
-
 | Area       | Technologies      | 
 | ------------- | ------------- | 
 | Operating System | [![OperatingSystem](https://skills.syvixor.com/api/icons?i=linux,arch,android&radius=25&)](https://github.com/syvixor/skills-icons) | 
@@ -49,22 +44,12 @@
 | Mobile Development | [![MobileDevelopment](https://skills.syvixor.com/api/icons?i=reactnative,expo&radius=25)](https://github.com/syvixor/skills-icons) |
 | Dev Tools | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,obsidian,trello,canva,bash,npm,yarn&radius=25)](https://github.com/syvixor/skills-icons) |
 | Learning | [![Learning](https://skills.syvixor.com/api/icons?i=androidstudio,flutter,capacitor,figma&radius=25)](https://github.com/syvixor/skills-icons) |
-  
-  </td> 
-  <td align="left" width="700px">
-      <picture>
-        <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=react&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
-        <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=buefy&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
-      </picture>
-      <picture>
-        <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=react&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
-        <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
+
+<picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=react&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
+</picture>
 
 <div align="center">
   <h3>🌟 Thanks for visiting! 🌟</h3>
