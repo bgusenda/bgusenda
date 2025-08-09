@@ -1,7 +1,5 @@
 <a id="top"></a>
 
----
-
 ## ![Readme Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&width=500&lines=😊+Hiiii,+I+am+BGUSEN!;😊+Hiiii,+このBGUSENです!;😊+Oiiee,+eu+sou+BGUSEN!)
 
 <div align="center">
@@ -53,7 +51,7 @@
 | Learning | [![Learning](https://skills.syvixor.com/api/icons?i=androidstudio,flutter,capacitor,figma&radius=25)](https://github.com/syvixor/skills-icons) |
   
   </td> 
-  <td align="left">
+  <td align="left" width="60%">
       <picture>
         <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=react&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)"/>
         <source width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=donut-vertical&theme=buefy&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
@@ -73,5 +71,3 @@
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fbgusen) [![INSTAGRAM](https://img.shields.io/badge/back%20to%20top-%23386C80.svg?style=for-the-badge&logo=top&logoColor=white)](#top)
 </div>
-
----
