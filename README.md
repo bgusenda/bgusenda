@@ -39,7 +39,7 @@
 | Area       | Technologies      | 
 | ------------- | ------------- | 
 | Operating System | [![OperatingSystem](https://skills.syvixor.com/api/icons?i=linux,arch,android&radius=25&)](https://github.com/syvixor/skills-icons) | 
-| FrontEnd | [![FrontEnd](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,materialui,vite&radius=25)](https://github.com/syvixor/skills-icons) | 
+| FrontEnd | [![FrontEnd](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,materialui,baseui,vite&radius=25)](https://github.com/syvixor/skills-icons) | 
 | BackEnd | [![BackEnd](https://skills.syvixor.com/api/icons?i=nodejs,php,xampp,mysql,expressjs,csharp&radius=25)](https://github.com/syvixor/skills-icons) | 
 | Mobile Development | [![MobileDevelopment](https://skills.syvixor.com/api/icons?i=reactnative,expo&radius=25)](https://github.com/syvixor/skills-icons) |
 | Dev Tools | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,obsidian,trello,canva,bash,npm,yarn&radius=25)](https://github.com/syvixor/skills-icons) |
