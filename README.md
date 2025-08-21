@@ -49,10 +49,10 @@
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=react&show_icons=true&hide_border=true" media="(prefers-color-scheme: dark)"/>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true" />
+</picture>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</picture>
 
 <div align="center">
   <h3>🌟 Thanks for visiting! 🌟</h3>
