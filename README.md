@@ -71,6 +71,6 @@
 <div align="center">
   <h3>🌟 Thanks for visiting! 🌟</h3>
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fbgusen%2Fprofile2024&label=VISITS) [![BackToTop](https://img.shields.io/badge/back%20to%20top-%23386C80.svg?style=for-the-badge&logo=top&logoColor=white)](#top)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fbgusen) [![BackToTop](https://img.shields.io/badge/back%20to%20top-%23386C80.svg?style=for-the-badge&logo=top&logoColor=white)](#top)
 
 </div>
