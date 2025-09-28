@@ -43,10 +43,10 @@
 | Area               | Technologies                                                                                                                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Operating System   | [![OperatingSystem](https://skills.syvixor.com/api/icons?i=linux,arch,android&radius=25&)](https://github.com/syvixor/skills-icons)                                                    |
-| FrontEnd           | [![FrontEnd](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,vite&radius=25)](https://github.com/syvixor/skills-icons) |
-| BackEnd            | [![BackEnd](https://skills.syvixor.com/api/icons?i=php,xampp,mysql,csharp&radius=25)](https://github.com/syvixor/skills-icons)                                        |
-| Dev Tools          | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,vercel,obsidian,trello,canva,bash,npm,yarn&radius=25)](https://github.com/syvixor/skills-icons)                         |
-| Learning           | [![Learning](https://skills.syvixor.com/api/icons?i=expressjs,mongodb,materialui,baseui,reactnative,expo,nodejs,cloudflare,figma&radius=25)](https://github.com/syvixor/skills-icons)                                         |
+| FrontEnd           | [![FrontEnd](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,vite,swiper,materialui&radius=25)](https://github.com/syvixor/skills-icons) |
+| BackEnd            | [![BackEnd](https://skills.syvixor.com/api/icons?i=php,xampp,mysql,csharp,cpp&radius=25)](https://github.com/syvixor/skills-icons)                                        |
+| Dev Tools          | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,obsidian,trello,canva,bash,npm,yarn,pnpm,githubcopilot,deepseek,chatgpt&radius=25)](https://github.com/syvixor/skills-icons)                         |
+| Learning           | [![Learning](https://skills.syvixor.com/api/icons?i=expressjs,vercel,mongodb,baseui,reactnative,expo,nodejs,cloudflare,python,vue,nuxtjs,figma&radius=25)](https://github.com/syvixor/skills-icons)                                         |
 
 <picture>
   <source
