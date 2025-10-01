@@ -45,7 +45,7 @@
 | Operating System   | [![OperatingSystem](https://skills.syvixor.com/api/icons?i=linux,arch,android&radius=25&)](https://github.com/syvixor/skills-icons)                                                    |
 | FrontEnd           | [![FrontEnd](https://skills.syvixor.com/api/icons?i=html,css3,sass,javascript,typescript,react,tailwindcss,vite,swiper,materialui&radius=25)](https://github.com/syvixor/skills-icons) |
 | BackEnd            | [![BackEnd](https://skills.syvixor.com/api/icons?i=php,xampp,mysql,csharp,cpp&radius=25)](https://github.com/syvixor/skills-icons)                                        |
-| Dev Tools          | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,obsidian,trello,canva,bash,npm,yarn,pnpm,githubcopilot,deepseek,chatgpt&radius=25)](https://github.com/syvixor/skills-icons)                         |
+| Dev Tools          | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,obsidian,trello,canva,bash,npm,yarn,pnpm&radius=25)](https://github.com/syvixor/skills-icons)                         |
 | Learning           | [![Learning](https://skills.syvixor.com/api/icons?i=expressjs,vercel,mongodb,baseui,reactnative,expo,nodejs,cloudflare,python,figma&radius=25)](https://github.com/syvixor/skills-icons)                                         |
 
 <picture>
