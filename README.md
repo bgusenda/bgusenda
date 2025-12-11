@@ -23,11 +23,8 @@
 
 </td>
 <td align="left" width="50%">
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=bgusenda&layout=donut&theme=react&show_icons=true&hide_border=true" media="(prefers-color-scheme: dark)"/>
-<source srcset="https://github-readme-stats.vercel.app/api?username=bgusenda&layout=donut&theme=buefy&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-<img src="https://github-readme-stats.vercel.app/api?username=bgusenda&layout=donut&theme=buefy&show_icons=true&hide_border=true" />
-</picture>
+  
+<img src="https://github-readme-stats-mirror.vercel.app/api?username=bgusenda&theme=react&show_icons=true&hide_border=true" />
 
 [![INSTAGRAM](https://img.shields.io/badge/bgusenn-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bgusenn)
 ![DISCORD](https://img.shields.io/badge/bgusen-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -40,6 +37,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
 | Area               | Technologies                                                                                                                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Operating System   | [![OperatingSystem](https://skills.syvixor.com/api/icons?i=linux,arch,android&radius=25&)](https://github.com/syvixor/skills-icons)                                                    |
@@ -47,25 +46,13 @@
 | BackEnd            | [![BackEnd](https://skills.syvixor.com/api/icons?i=php,xampp,sql,mariadb,mysql,csharp,cpp&radius=25)](https://github.com/syvixor/skills-icons)                                        |
 | Dev Tools          | [![DevTools](https://skills.syvixor.com/api/icons?i=git,github,vscode,obsidian,trello,canva,bash,npm,yarn,pnpm&radius=25)](https://github.com/syvixor/skills-icons)                         |
 | Learning           | [![Learning](https://skills.syvixor.com/api/icons?i=expressjs,vercel,mongodb,baseui,reactnative,expo,nodejs,cloudflare,python,figma&radius=25)](https://github.com/syvixor/skills-icons)                                         |
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=react&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true"
-  />
-</picture>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=bgusen&custom_title=Code%20Status&layout=compact&langs_count=6&theme=react&hide_border=true" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=bgusen&custom_title=Code%20Status&layout=compact&langs_count=6&theme=buefy&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=buefy&show_icons=true&hide_border=true"/>
-</picture>
+
+<div align="center">
+  <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=bgusenda&layout=compact&theme=react&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats-mirror.vercel.app/api/wakatime?username=bgusen&custom_title=Code%20Status&layout=compact&langs_count=6&theme=react&hide_border=true"/>
+</div>
 
 <div align="center">
   <h3>🌟 Thanks for visiting! 🌟</h3>
